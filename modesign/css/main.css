@@ -231,15 +231,10 @@ section.why h1, p {
 
 section.why li {
 	list-style-type: none;
-	margin-right: 300px;
+	margin-bottom: 10px;
+	font-size: 18px;
+	font-weight: normal;
 }
-
-.right_icon {
-	float: right;
-	font-size: 30px;
-	
-}
-
-.left_icon {
-	float: left;
+section.why i {
+	font-size: 50px;
 }
